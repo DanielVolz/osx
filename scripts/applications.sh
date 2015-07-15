@@ -34,11 +34,14 @@ install_zip_app "$TEXTEXPANDER_APP_URL" "$TEXTEXPANDER_APP_NAME"
 # Path Finder
 install_zip_app "$PATH_FINDER_APP_URL" "$PATH_FINDER_APP_NAME"
 
-# Firefox
-install_dmg_app "$FIREFOX_APP_URL" "Firefox" "$FIREFOX_APP_NAME"
+# Tor Browser
+install_dmg_app "$TOR_BROWSER_APP_URL" "Tor Browser" "$TOR_BROWSER_APP_NAME"
 
 # Google Chrome
 install_dmg_app "$CHROME_APP_URL" "Google Chrome" "$CHROME_APP_NAME"
+
+# Firefox
+install_dmg_app "$FIREFOX_APP_URL" "Firefox" "$FIREFOX_APP_NAME"
 
 # Opera
 install_dmg_app "$OPERA_APP_URL" "Opera" "$OPERA_APP_NAME"

@@ -4,6 +4,33 @@
 
 Shell scripts for automated OSX machine setup.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+# Table of Contents
+
+- [Features](#features)
+- [Requirements](#requirements)
+- [Setup](#setup)
+    - [OSX (Yosemite)](#osx-yosemite)
+        - [Bootdisk](#bootdisk)
+        - [Upgrade](#upgrade)
+        - [Reinstall](#reinstall)
+    - [Clone Project](#clone-project)
+- [Usage](#usage)
+    - [Customization](#customization)
+- [Additional Software](#additional-software)
+    - [App Store](#app-store)
+    - [Miscellaneous](#miscellaneous)
+    - [Post Install Checklist](#post-install-checklist)
+- [Versioning](#versioning)
+- [Code of Conduct](#code-of-conduct)
+- [Contributions](#contributions)
+- [License](#license)
+- [History](#history)
+- [Credits](#credits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Features
 
 - Provides a command line interface for installation and management of OSX software.
@@ -161,7 +188,11 @@ Shell scripts for automated OSX machine setup.
 0. [Command Line Tools for Xcode](https://developer.apple.com/downloads)
 0. [Java SE Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-# OSX Yosemite Bootdisk
+# Setup
+
+## OSX (Yosemite)
+
+### Bootdisk
 
 0. Insert a USB drive (8GB or higher is best).
 0. Open Disk Utility and format the USB drive (leave the label as "Untitled").
@@ -172,7 +203,7 @@ Shell scripts for automated OSX machine setup.
 0. Exit the OSX Yosemite install.
 0. Eject the USB drive.
 
-# OSX Yosemite Upgrade
+### Upgrade
 
 0. Insert the USB bootdisk into the machine to be upgraded.
 0. Reboot the machine.
@@ -181,12 +212,12 @@ Shell scripts for automated OSX machine setup.
 0. Format the machine using Disk Utility.
 0. Install the new OS.
 
-# OSX Yosemite Reinstall
+### Reinstall
 
 If you have already installed OSX but want to reinstall it, simply reboot the machine and hold down CONTROL+R.
 This will load the installer from the recovery partition and allow you to use Disk Utility, reinstall the system, etc.
 
-# Setup
+## Clone Project
 
 Open a terminal window and execute one of the following setup sequences depending on your version preference:
 
@@ -261,7 +292,9 @@ You can also modify the install scripts themselves by editing any of the followi
 
 All Bash functions, used by the scripts defined above, can be found in the `lib` folder of this project.
 
-# App Store Software
+# Additional Software
+
+## App Store
 
 I also recommend installing the following software found via the
 [App Store](http://www.apple.com/macosx/whats-new/app-store.html):
@@ -301,7 +334,7 @@ I also recommend installing the following software found via the
 - [Slack](https://slack.com)
 - [Tweetbot](http://tapbots.com/tweetbot/mac)
 
-# Miscellaneous Software
+## Miscellaneous
 
 The following software is optional:
 
@@ -309,7 +342,7 @@ The following software is optional:
 - [VMWare Fusion](http://www.vmware.com/products/fusion) (requires a registered account, download only)
 - [Logitech Harmony Remote](https://support.logitech.com/en_us/product/harmony-890-advanced-universal-remote)
 
-# Post Install Checklist
+## Post Install Checklist
 
 The following is a checklist of additional steps worth completing after the scripts have been executed:
 
@@ -342,10 +375,6 @@ The following is a checklist of additional steps worth completing after the scri
             - Disable "Enable Autofill to fill out web forms in a single click".
             - Disable "Offer to save your web passwords".
 - Configure previously installed applications.
-
-# Resources
-
-- [Mathias Bynens' OSX Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.osx) - OSX/application defaults.
 
 # Versioning
 

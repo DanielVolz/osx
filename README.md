@@ -306,7 +306,7 @@ I also recommend installing the following software found via the
 - [Fantastical](http://flexibits.com/fantastical)
 - [Dash](http://kapeli.com/dash)
 - [PDFpenPro](http://www.smilesoftware.com/PDFpenPro/index.html)
-- [Marked](http://markedapp.com)
+- [Marked 2](http://marked2app.com)
 - [OmniOutliner](http://www.omnigroup.com/applications/omnioutliner)
 - [OmniFocus](http://www.omnigroup.com/applications/omnifocus)
 - [Patterns](http://krillapps.com/patterns)

@@ -1,7 +1,5 @@
 # OSX
 
-[![Gittip](http://img.shields.io/gittip/bkuhlmann.svg)](https://www.gittip.com/bkuhlmann)
-
 Shell scripts for automated OSX machine setup.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

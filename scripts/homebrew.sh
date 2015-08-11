@@ -156,3 +156,6 @@ brew install cloc
 
 # Terminal Notifier
 brew install terminal-notifier
+
+# Watchman
+brew install watchman

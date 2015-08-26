@@ -121,6 +121,9 @@ brew install ruby-build
 brew install rbenv-vars
 brew install rbenv-ctags
 
+# Rust
+brew install rust
+
 # Go
 brew install go
 

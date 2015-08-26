@@ -85,6 +85,9 @@ brew install the_silver_searcher
 # Pipe Viewer
 brew install pv
 
+# HTTPie
+brew install httpie
+
 # Ioping
 brew install ioping
 

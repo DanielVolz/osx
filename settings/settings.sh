@@ -186,9 +186,6 @@ export BARTENDER_APP_URL="http://www.macbartender.com/Demo/Bartender.zip"
 export SNIPPETS_APP_NAME=Snippets.app
 export SNIPPETS_APP_URL="http://www.snippetsapp.com/download/Snippets-1.4.3.zip"
 
-export ACORN_APP_NAME=Acorn.app
-export ACORN_APP_URL="http://flyingmeat.com/download/Acorn.zip"
-
 export DOUBLETAKE_APP_NAME=DoubleTake.app
 export DOUBLETAKE_APP_URL="http://echoone.com/doubletake/DoubleTake.dmg"
 

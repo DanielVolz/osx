@@ -312,6 +312,7 @@ I also recommend installing the following software found via the
 - [Gradient](http://www.gradientapp.com)
 - [xScope](http://iconfactory.com/software/xscope)
 - [Ember](http://realmacsoftware.com/ember)
+- [Acorn](https://secure.flyingmeat.com/acorn)
 - [Pixelmator](http://www.pixelmator.com)
 - [Sketch](http://bohemiancoding.com/sketch)
 - [GIF Brewery](http://www.helloresolven.com/portfolio/gifbrewery)

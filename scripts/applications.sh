@@ -61,9 +61,6 @@ install_zip_app "$BARTENDER_APP_URL" "$BARTENDER_APP_NAME"
 # Snippets
 install_zip_app "$SNIPPETS_APP_URL" "$SNIPPETS_APP_NAME"
 
-# Acorn
-install_zip_app "$ACORN_APP_URL" "$ACORN_APP_NAME"
-
 # DoubleTake
 install_dmg_app "$DOUBLETAKE_APP_URL" "DoubleTake" "$DOUBLETAKE_APP_NAME"
 

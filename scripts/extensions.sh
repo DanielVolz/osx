@@ -126,6 +126,9 @@ install_git_app "$MARKDOWN_EXTENSION_URL" "$MARKDOWN_EXTENSION_PATH"
 # Sublime Text - SCSS
 install_git_app "$SCSS_EXTENSION_URL" "$SCSS_EXTENSION_PATH"
 
+# Sublime Text - SCSS Lint
+install_git_app "$SCSS_LINT_EXTENSION_URL" "$SCSS_LINT_EXTENSION_PATH"
+
 # Sublime Text - CSScomb
 install_git_app "$CSSCOMB_EXTENSION_URL" "$CSSCOMB_EXTENSION_PATH"
 

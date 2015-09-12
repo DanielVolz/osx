@@ -27,9 +27,6 @@ REPO_DOTFILES=v16.0.0
 export DROPBOX_APP_NAME=Dropbox.app
 export DROPBOX_APP_URL="https://www.dropbox.com/download?src=index&plat=mac"
 
-export CLOUD_APP_NAME=CloudApp.app
-export CLOUD_APP_URL="https://s3.amazonaws.com/downloads.getcloudapp.com/mac/CloudApp-3.5.3.dmg"
-
 export KNOX_APP_NAME=Knox.app
 export KNOX_APP_URL="https://d13itkw33a7sus.cloudfront.net/dist/K/Knox-2.3.1.zip"
 

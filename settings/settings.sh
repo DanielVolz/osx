@@ -237,7 +237,7 @@ export HAZEL_APP_NAME=Hazel.prefPane
 export HAZEL_APP_URL="http://www.noodlesoft.com/Products/Hazel/download"
 
 export TRAILER_APP_NAME=Trailer.app
-export TRAILER_APP_URL="http://ptsochantaris.github.io/trailer/trailer136.zip"
+export TRAILER_APP_URL="http://ptsochantaris.github.io/trailer/trailer137.zip"
 
 export CARBON_COPY_CLONER_APP_NAME="Carbon Copy Cloner.app"
 export CARBON_COPY_CLONER_APP_URL="http://c74b26775831609a3cf2-8064f6cbda3d6f2abd1c53b8bc16b17e.r26.cf5.rackcdn.com/ccc-4.1.4.4188.zip"

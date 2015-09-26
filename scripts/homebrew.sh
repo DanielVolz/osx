@@ -18,12 +18,6 @@ brew install readline
 brew install openssl
 brew link openssl --force
 
-# Bash
-brew install bash
-
-# Bash Completion
-brew install bash-completion
-
 # asciinema
 brew install asciinema
 
@@ -33,69 +27,11 @@ brew install shellcheck
 # Colorized Cat
 brew install ccat
 
-# tmux
-brew install tmux
-brew install reattach-to-user-namespace
-
-# Mosh
-brew install mobile-shell
-
-# Z
-brew install z
-
-# Tree
-brew install tree
-
-# hr
-brew install hr
-
 # Git
 brew install git
 
-# Mercurial
-brew install hg
-
 # GitHub
 brew install hub
-
-# GitHub Issues
-brew install ghi
-
-# CTags
-brew install ctags
-
-# Tag
-brew install tag
-
-# Parallel
-brew install parallel
-
-# Pigz
-brew install pigz
-
-# JSON CLI Parser
-brew install jq
-
-# The Silver Searcher
-brew install the_silver_searcher
-
-# Pipe Viewer
-brew install pv
-
-# Ioping
-brew install ioping
-
-# Network Grep
-brew install ngrep
-
-# Namebench
-brew install namebench
-
-# ImageMagick
-brew install imagemagick
-
-# Graphviz
-brew install graphviz
 
 # FLAC
 brew install flac
@@ -103,53 +39,38 @@ brew install flac
 # FFmpeg
 brew install ffmpeg
 
-# Gifsicle
-brew install gifsicle
-
-# Node
-brew install node
-
-# Phantom.js
-brew install phantomjs
-
-# rbenv
-brew install rbenv
-brew install ruby-build
-brew install rbenv-vars
-brew install rbenv-ctags
-
-# Go
-brew install go
-
-# FZF
-brew install fzf
-
-# Peco
-brew install peco
-
-# Nginx
-brew install nginx
-
-# Memcached
-brew install memcached
-
-# Redis
-brew install redis
-
-# PostgreSQL
-brew install postgresql
-
-# pgcli
-brew install pgcli
-
-# Wry
-brew install wry
-
-# lnav
-brew install lnav
-
-# cloc
-brew install cloc
-
 # Terminal Notifier
 brew install terminal-notifier
+
+# Install GNU core utilities (those that come with OS X are outdated).
+# Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
+brew install coreutils
+
+# Install some other useful utilities like `sponge`.
+brew install moreutils
+# Install GNU `find`, `locate`, `updatedb`, and `xargs`, `g`-prefixed.
+
+brew install findutils
+# Install GNU `sed`, overwriting the built-in `sed`.
+
+brew install gnu-sed --with-default-names
+# Install Bash 4.
+# Note: don’t forget to add `/usr/local/bin/bash` to `/etc/shells` before
+# running `chsh`.
+
+brew install bash
+brew tap homebrew/versions
+brew install bash-completion2
+
+# Install `wget` with IRI support.
+brew install wget --with-iri
+
+# Install more recent versions of some OS X tools.
+brew install vim --override-system-vi
+brew install homebrew/dupes/grep
+brew install homebrew/dupes/openssh
+brew install homebrew/dupes/screen
+brew install homebrew/php/php55 --with-gmp
+
+# Remove outdated versions from the cellar.
+brew cleanup

@@ -1,7 +1,7 @@
 # Softwarelist
 
-0. [Spectacle] (www.google.de)
-
+0. [Spectacle](www.google.de)
+0. [OSX](http://www.apple.com/osx)
 
 # Requirements
 

@@ -10,7 +10,7 @@ set -o errexit # Abort script at first error, when a command exits with non-zero
 set -o pipefail # Returns exit status of the last command in the pipe that returned a non-zero return value.
 IFS=$'\n\t' # Defines how Bash splits words and iterates arrays. This defines newlines and tabs as delimiters.
 export SYSTEM_LABEL=Dani-MBP # Placeholder for system display name.
-export SYSTEM_NAME=Danisad-MBP # Placeholder for system name.
+export SYSTEM_NAME=Danisaasasd-MBP # Placeholder for system name.
 export WORK_PATH=/tmp/downloads # Temporary location for processing of file downloads and installers.
 
 # Ruby

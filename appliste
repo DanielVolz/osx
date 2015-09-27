@@ -1,11 +1,6 @@
 
-drwxrwxr-x@  3 danielvolz  admin   102 Oct 15  2012 Android File Transfer.app/
 drwxr-xr-x@  3 danielvolz  admin   102 Jun 25 09:04 Android Studio.app/
-drwxr-xr-x@  3 root        wheel   102 Sep  1 09:34 App Store.app/
-drwxr-xr-x   3 danielvolz  admin   102 Jan 10  2015 AppCleaner.app/
-drwxr-xr-x   3 danielvolz  staff   102 Sep 25 11:30 Atom.app/
 drwxr-xr-x   3 root        wheel   102 Apr 11 15:16 Caffeine.app/
-drwxr-xr-x@  3 root        wheel   102 Sep  1 09:34 Calendar.app/
 drwxr-xr-x   3 danielvolz  admin   102 Apr 17  2014 CheatSheet.app/
 drwxr-xr-x   3 danielvolz  staff   102 Aug 22 00:20 ChitChat.app/
 drwxr-xr-x   3 danielvolz  admin   102 Feb 25  2015 Cyberduck.app/
@@ -17,7 +12,6 @@ drwxr-xr-x@  3 root        wheel   102 Sep 24 01:37 Google Chrome.app/
 drwxr-xr-x@  3 danielvolz  admin   102 Mar 23  2015 IntelliJ IDEA 14.app/
 drwxr-xr-x   3 root        wheel   102 Sep 25 11:51 Little Snitch Configuration.app/
 drwxr-xr-x@  3 root        wheel   102 Sep  1 09:34 Mail.app/
-drwxr-xr-x@  3 root        wheel   102 Sep  1 09:34 Messages.app/
 drwxr-xr-x@  3 danielvolz  staff   102 May 26 09:54 Scroll Reverser.app/
 drwxr-xr-x   3 root        wheel   102 Aug 19 11:27 Seil.app/
 drwxr-xr-x   3 danielvolz  admin   102 Aug 21 10:33 Skype.app/
@@ -25,7 +19,6 @@ drwxr-xr-x@  3 danielvolz  admin   102 Sep 20 13:31 Steam.app/
 drwxr-xr-x   3 danielvolz  admin   102 Mar 27  2015 Sublime Text.app/
 drwxrwxr-x@  3 root        wheel   102 Sep  1 09:34 System Preferences.app/
 drwxr-xr-x   3 root        wheel   102 Sep 26 01:01 The Unarchiver.app/
-drwxr-xr-x@  3 root        wheel   102 Sep  1 09:34 Time Machine.app/
 drwxr-xr-x   3 root        admin   102 Sep 26 02:53 TotalFinder.app/
 drwxr-xr-x@  3 danielvolz  admin   102 Jul  1  2014 Transmission.app/
 drwxr-xr-x   3 root        wheel   102 Sep 26 03:59 Twitter.app/

@@ -30,6 +30,9 @@ brew install ccat
 # Git
 brew install git
 
+# MPV
+brew install mpv
+
 # GitHub
 brew install hub
 

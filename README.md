@@ -3,7 +3,7 @@
 
 0. [Spectacle](https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.0.1.zip)
 0. [AppCleaner](http://www.freemacsoft.net/downloads/AppCleaner_3.0b2.zip)
-0. [Atom](hhttps://github.com/atom/atom.git)
+0. [Atom](https://github.com/atom/atom.git)
 0. [Caffeine](http://lightheadsw.com/files/releases/com.lightheadsw.Caffeine/Caffeine1.1.1.zip)
 0. [ChitChat](https://github.com/stonesam92/ChitChat.git)
 0. [Cyberduck](https://update.cyberduck.io/Cyberduck-4.7.2.zip)
@@ -16,7 +16,7 @@
 0. [Transmission](http://download.transmissionbt.com/files/Transmission-2.84.dmg)
 0. [Calibre](http://download.calibre-ebook.com/2.39.0/calibre-2.39.0.dmg)
 0. [Transmission](http://download.transmissionbt.com/files/Transmission-2.84.dmg)
-0. [Transmission](http://download.transmissionbt.com/files/Transmission-2.84.dmg)
+
 
 
 

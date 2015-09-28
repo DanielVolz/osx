@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 cd "$(dirname "${BASH_SOURCE}")";
-
+echo ${BASH_SOURCE[0]};
 git pull origin master;
 
 function doIt() {

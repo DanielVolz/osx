@@ -2,6 +2,9 @@
 
 # DESCRIPTION
 # Sets up and launches (if necessary) installed software.
+#copy Bartender
+curl -L -o Bartender.app.zip https://www.dropbox.com/sh/66ns111xnv22jff/AAAiYs65uPGwo6hYP_ftzhpva?dl=1
+unzip Bartender.app.zip -d /Applications/Bartender.app
 
 # Bash
 sudo bash -c "printf '/usr/local/bin/bash\n' >> /etc/shells"

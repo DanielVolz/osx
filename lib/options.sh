@@ -27,13 +27,13 @@ process_option() {
       scripts/setup.sh
       break;;
     'i')
-      caffeinate_machine
-      scripts/basic.sh
-      scripts/homebrew.sh
+      #caffeinate_machine
+      #scripts/basic.sh
+      #scripts/homebrew.sh
       scripts/applications.sh
-      scripts/extensions.sh
-      scripts/defaults.sh
-      scripts/dotfile.sh
+      #scripts/extensions.sh
+      #scripts/defaults.sh
+      #scripts/dotfile.sh
       scripts/setup.sh
       clean_work_path
       break;;

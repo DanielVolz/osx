@@ -53,11 +53,11 @@ chsh -s /usr/local/bin/bash
 # # Pow
 # curl get.pow.cx | sh
 
-# Google Chrome Ember Inspector
-(
-  cd "$EMBER_INSPECTOR_EXTENSION_PATH"
-  grunt
-)
+# # Google Chrome Ember Inspector
+# (
+#   cd "$EMBER_INSPECTOR_EXTENSION_PATH"
+#   grunt
+# )
 
 # Sublime Text Setup
 if [ ! -e "/usr/bin/sublime" ]; then

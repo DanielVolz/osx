@@ -10,6 +10,8 @@ if ! command -v brew > /dev/null; then
   export PATH="/usr/local/bin:$PATH"
   printf "export PATH=\"/usr/local/bin:$PATH\"\n" >> $HOME/.bash_profile
 fi
+
+
 #Mackup
 brew install mackup
 

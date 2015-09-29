@@ -153,7 +153,7 @@ install_zip_app() {
     verify_application "$app_name"
   fi
 }
-export -f install_tbz_app
+export -f install_zip_app
 
 # Installs an application via a tbz file.
 # Parameters:

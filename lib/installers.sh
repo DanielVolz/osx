@@ -159,7 +159,7 @@ export -f install_tbz_app
 # Parameters:
 # $1 = The URL.
 # $2 = The application name.
-install_zip_app() {
+install_tbz_app() {
   local url="$1"
   local app_name="$2"
   local install_path=$(get_install_path "$app_name")

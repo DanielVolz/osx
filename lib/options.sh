@@ -33,6 +33,7 @@ process_option() {
       scripts/applications.sh
       scripts/extensions.sh
       scripts/defaults.sh
+      scripts/dotfile.sh
       scripts/setup.sh
       clean_work_path
       break;;

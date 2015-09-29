@@ -26,6 +26,9 @@ REPO_DOTFILES=v16.0.0
 
 
 # Applications
+export FLUX_APP_NAME=Flux.app
+export FLUX_APP_URL="https://d38qbqfndhlqd2.cloudfront.net/Flux36-3.zip"
+
 
 export CALIBRE_APP_NAME=Calibre.app
 export CALIBRE_APP_URL="http://download.calibre-ebook.com/2.39.0/calibre-2.39.0.dmg"

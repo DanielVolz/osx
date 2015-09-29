@@ -8,7 +8,7 @@
 #Flux
 install_zip_app "$FLUX_APP_URL" "$FLUX_APP_NAME"
 
-install_pkg "/Volumes/Macintosh\ HD\ 1/Microsoft_Office_2016_Installer.pkg" "Microsoft_Office_2016_Installer.pkg"
+install_pkg "/Volumes/Macintosh HD 1/" "Microsoft_Office_2016_Installer.pkg"
 
 #Caffeine
 install_zip_app "$CAFFEINE_APP_URL" "$CAFFEINE_APP_NAME"

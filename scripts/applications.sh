@@ -4,6 +4,8 @@
 # Installs OSX applications.
 
 # EXECUTION
+#Limechat
+install_tbz_app "$LIMECHAT_APP_URL" "$LIMECHAT_APP_NAME"
 
 #Flux
 install_zip_app "$FLUX_APP_URL" "$FLUX_APP_NAME"

@@ -26,6 +26,7 @@ REPO_DOTFILES=v16.0.0
 
 
 # Applications
+
 export CALIBRE_APP_NAME=Calibre.app
 export CALIBRE_APP_URL="http://download.calibre-ebook.com/2.39.0/calibre-2.39.0.dmg"
 

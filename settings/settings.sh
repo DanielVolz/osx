@@ -48,13 +48,13 @@ export CYBERDUCK_APP_NAME=Cyberduck.app
 export CYBERDUCK_APP_URL="https://update.cyberduck.io/Cyberduck-4.7.2.zip"
 
 export CHITCHAT_APP_NAME=ChitChat.app
-export CHITCHAT_APP_URL="https://github.com/stonesam92/ChitChat.git"
+export CHITCHAT_APP_URL="https://github.com/stonesam92/ChitChat/releases/download/v1.3/ChitChat.zip"
 
 export ATOM_APP_NAME=Atom.app
-export ATOM_APP_URL="https://github.com/atom/atom.git"
+export ATOM_APP_URL="https://github.com/atom/atom/releases/download/v1.0.19/atom-mac.zip"
 
 export CAFFEINE_APP_NAME=Caffeine.app
-export CAFFEINE_APP_URL="hhttp://lightheadsw.com/files/releases/com.lightheadsw.Caffeine/Caffeine1.1.1.zip"
+export CAFFEINE_APP_URL="http://lightheadsw.com/files/releases/com.lightheadsw.Caffeine/Caffeine1.1.1.zip"
 
 export DROPBOX_APP_NAME=Dropbox.app
 export DROPBOX_APP_URL="https://www.dropbox.com/download?src=index&plat=mac"

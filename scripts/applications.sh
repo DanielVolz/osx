@@ -9,10 +9,10 @@
 install_zip_app "$CAFFEINE_APP_URL" "$CAFFEINE_APP_NAME"
 
 #Atom
-install_git_app "$ATOM_APP_URL" "/Applications"
+install_zip_app "$ATOM_APP_URL" "$ATOM_APP_NAME"
 
 #ChitChat
-install_git_app "$CHITCHAT_APP_URL" "/Applications"
+install_zip_app "$CHITCHAT_APP_URL" "$CHITCHAT_APP_NAME"
 
 #Cyberduck
 install_zip_app "$CYBERDUCK_APP_URL" "$CYBERDUCK_APP_NAME"

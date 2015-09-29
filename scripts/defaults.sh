@@ -559,6 +559,8 @@ sudo mdutil -E / > /dev/null
 ###############################################################################
 # Terminal & iTerm 2                                                          #
 ###############################################################################
+#hide iterm2
+/usr/libexec/PlistBuddy -c 'Add :LSUIElement bool true' /Applications/iTerm.app/Contents/Info.plist
 
 # Only use UTF-8 in Terminal.app
 defaults write com.apple.terminal StringEncodings -array 4

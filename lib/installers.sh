@@ -153,7 +153,33 @@ install_zip_app() {
     verify_application "$app_name"
   fi
 }
-export -f install_zip_app
+export -f install_tbz_app
+
+# Installs an application via a tbz file.
+# Parameters:
+# $1 = The URL.
+# $2 = The application name.
+install_zip_app() {
+  local url="$1"
+  local app_name="$2"
+  local install_path=$(get_install_path "$app_name")
+  local download_file="download.zip"
+
+  if [[ ! -e "$install_path" ]]; then
+    download_installer "$url" "$download_file"
+
+    (
+      printf "Preparing...\n"
+      cd "$WORK_PATH"
+      tar -xjf "$download_file"
+    )
+
+    install_app "$WORK_PATH" "$app_name"
+    printf "Installed: $app_name.\n"
+    verify_application "$app_name"
+  fi
+}
+export -f install_tbz_app
 
 # Installs an application via a tar file.
 # Parameters:
